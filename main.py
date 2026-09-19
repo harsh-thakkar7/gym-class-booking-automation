@@ -8,8 +8,8 @@ import os
 import time
 
 
-ACCOUNT_EMAIL = "angela@test.com"
-ACCOUNT_PASSWORD = "superSecretTestPassword"
+ACCOUNT_EMAIL = ""
+ACCOUNT_PASSWORD = ""
 GYM_URL = "https://appbrewery.github.io/gym/"
 
 chrome_options = webdriver.ChromeOptions()
